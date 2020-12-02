@@ -5,3 +5,14 @@
 .item-add-form input {
     margin-right: 3px;
 }
+
+.btn {
+    padding-right: 0.375rem;
+    padding-left: 0.375rem;
+    font-size: 12px;
+
+}
+
+.form-control{
+    width: 83%;
+}
